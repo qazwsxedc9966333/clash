@@ -190,7 +190,6 @@ rules:
   - DOMAIN-SUFFIX,esoir.be,🔰国外流量
   - DOMAIN-SUFFIX,etherscan.io,🔰国外流量
   - DOMAIN-SUFFIX,euronews.com,🔰国外流量
-  - DOMAIN-SUFFIX,evozi.com,🔰国外流量
   - DOMAIN-SUFFIX,feedly.com,🔰国外流量
   - DOMAIN-SUFFIX,firech.at,🔰国外流量
   - DOMAIN-SUFFIX,flickr.com,🔰国外流量
